@@ -64,12 +64,11 @@
 
 ## 🚀 My Projects
 
-## 🚀 My Projects
+
 
 | | Project | Description | Tags |
 |---|---|---|---|
 | 🔐 | [**Password Checker**](https://github.com/yeshith-gune/password-checker) | Checks strength & breach status via HaveIBeenPwned API — password never leaves your machine | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Security](https://img.shields.io/badge/Security-red?style=flat-square) ![API](https://img.shields.io/badge/API-00C9FF?style=flat-square) |
-| 🌐 | **Next Project** | Coming soon... | ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
 
 
 ## 📬 Connect With Me
