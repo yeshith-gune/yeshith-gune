@@ -64,13 +64,13 @@
 ---
 
 ## 🚀 My Projects
-<div align="center">
+
 | Project | Description | Tech |
 |---|---|---|
 | 🔐 [Password Checker](https://github.com/yeshith-gune/password-checker) | Password strength checker with HaveIBeenPwned API | Python |
 
 ---
-</div>
+
 
 ## 📬 Connect With Me
 
@@ -85,10 +85,6 @@
 
 <div align="center">
   <i>⭐ Star my repositories if you find them helpful!</i>
-
-
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yeshith-gune&theme=tokyonight)](https://git.io/streak-stats)
 </div>
 
 <!--
