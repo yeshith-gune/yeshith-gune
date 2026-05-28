@@ -84,10 +84,11 @@
 
 <div align="center">
   <i>⭐ Star my repositories if you find them helpful!</i>
-</div>
+
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yeshith-gune&theme=tokyonight)](https://git.io/streak-stats)
+</div>
 
 <!--
 **yeshith-gune/yeshith-gune** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
