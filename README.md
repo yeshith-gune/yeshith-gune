@@ -49,10 +49,9 @@
 
 <div align="center">
 
-![Yeshith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yeshith-gune&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Yeshith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yeshith-gune...)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yeshith-gune&layout=compact&theme=tokyonight&hide_border=true)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/...))
 </div>
 
 ---
