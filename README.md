@@ -51,7 +51,7 @@
 
 ![Yeshith's GitHub Stats](https://github-stats.vercel.app/api?username=yeshith-gune&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yeshith-gune&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yeshith-gune&theme=tokyonight&hide_border=true&layout=donut)
 </div>
 
 ---
