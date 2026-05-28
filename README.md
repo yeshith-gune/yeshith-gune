@@ -64,29 +64,42 @@
 
 ## 🚀 My Projects
 
-<div align="center">
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">🔐 Password Checker</h3>
-<p align="center">
-<a href="https://github.com/yeshith-gune/password-checker">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=yeshith-gune&repo=password-checker&theme=tokyonight&hide_border=true" />
-</a>
-</p>
-<p align="center">Checks password strength & verifies against HaveIBeenPwned API using k-Anonymity</p>
-<p align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Security-FF0000?style=flat-square"/>
-<img src="https://img.shields.io/badge/API-00C9FF?style=flat-square"/>
-</p>
-</td>
-<td width="50%">
-<h3 align="center">🌐 Next Project</h3>
-<p align="center">Coming soon...</p>
-</td>
-</tr>
+<table width="100%">
+  <tr>
+    <td width="4px" bgcolor="#58a6ff"></td>
+    <td>
+      <b>🔐 <a href="https://github.com/yeshith-gune/password-checker">password-checker</a></b>
+      &nbsp;
+      <img src="https://img.shields.io/badge/Active-2ea44f?style=flat-square"/>
+      <br/>
+      <sub>Checks password strength and verifies against HaveIBeenPwned API — your actual password never leaves your machine</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Security-f78166?style=flat-square"/>
+      <img src="https://img.shields.io/badge/API-a371f7?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Beginner_Friendly-3fb950?style=flat-square"/>
+    </td>
+  </tr>
+  <tr><td colspan="2"><br/></td></tr>
+  <tr>
+    <td width="4px" bgcolor="#30363d"></td>
+    <td>
+      <b>🌐 Next Project</b>
+      &nbsp;
+      <img src="https://img.shields.io/badge/In_Progress-orange?style=flat-square"/>
+      <br/>
+      <sub>Your next project will appear here. Keep building every day!</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Coming_Soon-grey?style=flat-square"/>
+    </td>
+  </tr>
 </table>
+
+<div align="right">
+
+[View all repositories →](https://github.com/yeshith-gune?tab=repositories)
+
+</div>
 </div>
 
 [View all repositories →](https://github.com/yeshith-gune?tab=repositories)
