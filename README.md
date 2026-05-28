@@ -64,37 +64,9 @@
 
 ## 🚀 My Projects
 
-<table width="100%">
-  <tr>
-    <td width="4px" bgcolor="#58a6ff"></td>
-    <td>
-      <b>🔐 <a href="https://github.com/yeshith-gune/password-checker">password-checker</a></b>
-      &nbsp;
-      <img src="https://img.shields.io/badge/Active-2ea44f?style=flat-square"/>
-      <br/>
-      <sub>Checks password strength and verifies against HaveIBeenPwned API — your actual password never leaves your machine</sub>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Security-f78166?style=flat-square"/>
-      <img src="https://img.shields.io/badge/API-a371f7?style=flat-square"/>
-      <img src="https://img.shields.io/badge/Beginner_Friendly-3fb950?style=flat-square"/>
-    </td>
-  </tr>
-  <tr><td colspan="2"><br/></td></tr>
-  <tr>
-    <td width="4px" bgcolor="#30363d"></td>
-    <td>
-      <b>🌐 Next Project</b>
-      &nbsp;
-      <img src="https://img.shields.io/badge/In_Progress-orange?style=flat-square"/>
-      <br/>
-      <sub>Your next project will appear here. Keep building every day!</sub>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Coming_Soon-grey?style=flat-square"/>
-    </td>
-  </tr>
-</table>
+🟢 &nbsp; **[🔐 password-checker](https://github.com/yeshith-gune/password-checker)** &nbsp;—&nbsp; Password strength checker with HaveIBeenPwned API &nbsp; ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
+🟡 &nbsp; **[🌐 next-project](https://github.com/yeshith-gune)** &nbsp;—&nbsp; Coming soon... &nbsp; ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 <div align="right">
 
 [View all repositories →](https://github.com/yeshith-gune?tab=repositories)
