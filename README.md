@@ -100,11 +100,7 @@
 [View all repositories →](https://github.com/yeshith-gune?tab=repositories)
 
 </div>
-</div>
 
-[View all repositories →](https://github.com/yeshith-gune?tab=repositories)
-
-</div>
 
 
 ## 📬 Connect With Me
