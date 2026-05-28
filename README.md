@@ -64,12 +64,13 @@
 ---
 
 ## 🚀 My Projects
-
+<div align="center">
 | Project | Description | Tech |
 |---|---|---|
 | 🔐 [Password Checker](https://github.com/yeshith-gune/password-checker) | Password strength checker with HaveIBeenPwned API | Python |
 
 ---
+</div>
 
 ## 📬 Connect With Me
 
