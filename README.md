@@ -114,9 +114,10 @@
 
 <div align="center">
   <i>⭐ Star my repositories if you find them helpful!</i>
-  ![Profile Views](https://komarev.com/ghpvc/?username=yeshith-gune&color=00c9ff&style=flat-square&label=Profile+Views)
-
+ 
 </div>
+ ![Profile Views](https://komarev.com/ghpvc/?username=yeshith-gune&color=00c9ff&style=flat-square&label=Profile+Views)
+
 
 <!--
 **yeshith-gune/yeshith-gune** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
