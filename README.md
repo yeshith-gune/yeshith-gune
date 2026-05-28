@@ -2,7 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00C9FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Yeshith+Gunasekara;Cyber+Security;Always+Learning+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-![Profile Views](https://komarev.com/ghpvc/?username=yeshith-gune&color=00c9ff&style=flat-square&label=Profile+Views)
 
 </div>
 
@@ -115,6 +114,8 @@
 
 <div align="center">
   <i>⭐ Star my repositories if you find them helpful!</i>
+  ![Profile Views](https://komarev.com/ghpvc/?username=yeshith-gune&color=00c9ff&style=flat-square&label=Profile+Views)
+
 </div>
 
 <!--
