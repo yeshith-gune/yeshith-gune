@@ -64,10 +64,30 @@
 
 ## 🚀 My Projects
 
-🟢 &nbsp; **[🔐 password-checker](https://github.com/yeshith-gune/password-checker)** &nbsp;—&nbsp; Password strength checker with HaveIBeenPwned API &nbsp; ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-🟡 &nbsp; **[🌐 next-project](https://github.com/yeshith-gune)** &nbsp;—&nbsp; Coming soon... &nbsp; ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-<div align="right">
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">🔐 Password Checker</h3>
+<p align="center">
+<a href="https://github.com/yeshith-gune/password-checker">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=yeshith-gune&repo=password-checker&theme=tokyonight&hide_border=true" />
+</a>
+</p>
+<p align="center">Checks password strength & verifies against HaveIBeenPwned API using k-Anonymity</p>
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Security-FF0000?style=flat-square"/>
+<img src="https://img.shields.io/badge/API-00C9FF?style=flat-square"/>
+</p>
+</td>
+<td width="50%">
+<h3 align="center">🌐 Next Project</h3>
+<p align="center">Coming soon...</p>
+</td>
+</tr>
+</table>
+</div>
 
 [View all repositories →](https://github.com/yeshith-gune?tab=repositories)
 
