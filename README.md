@@ -17,6 +17,16 @@
 - 📍 Ambalangoda, Sri Lanka
 
 ---
+## 📬 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yeshith-gunasekara-79331b3b9/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yeshithabeysingha@gmail.com)
+
+</div>
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -62,38 +72,6 @@
 
 ---
 
-## 🚀 My Projects
-
-<table width="100%">
-  <tr>
-    <td width="4px" bgcolor="#58a6ff"></td>
-    <td>
-      <b>🔐 <a href="https://github.com/yeshith-gune/password-checker">password-checker</a></b>
-      &nbsp;
-      <img src="https://img.shields.io/badge/Active-2ea44f?style=flat-square"/>
-      <br/>
-      <sub>Checks password strength and verifies against HaveIBeenPwned API — your actual password never leaves your machine</sub>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Security-f78166?style=flat-square"/>
-      <img src="https://img.shields.io/badge/API-a371f7?style=flat-square"/>
-      <img src="https://img.shields.io/badge/Beginner_Friendly-3fb950?style=flat-square"/>
-    </td>
-  </tr>
-  <tr><td colspan="2"><br/></td></tr>
-  <tr>
-    <td width="4px" bgcolor="#30363d"></td>
-    <td>
-      <b>🌐 Next Project</b>
-      &nbsp;
-      <img src="https://img.shields.io/badge/In_Progress-orange?style=flat-square"/>
-      <br/>
-      <sub>Your next project will appear here. Keep building every day!</sub>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Coming_Soon-grey?style=flat-square"/>
-    </td>
-  </tr>
-</table>
 
 <div align="right">
 
@@ -103,16 +81,7 @@
 
 
 
-## 📬 Connect With Me
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yeshith-gunasekara-79331b3b9/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yeshithabeysingha@gmail.com)
-
-</div>
-
----
 
 <div align="center">
   <i>⭐ Star my repositories if you find them helpful!</i>
